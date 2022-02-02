@@ -1,5 +1,5 @@
 # CSC110-Final-Project
-CSC110 final project for Ricky David Alex Terry
+CSC110 final project for Terry Ricky David and Alex
 
 
 
